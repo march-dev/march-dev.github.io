@@ -55856,7 +55856,7 @@ A.a17.prototype={
 io(){var s=0,r=A.M(t.H),q=this,p
 var $async$io=A.N(function(a,b){if(a===1)return A.J(b,r)
 while(true)switch(s){case 0:p=A.a(["email","https://www.googleapis.com/auth/youtube.readonly","https://www.googleapis.com/auth/youtube.force-ssl","https://www.googleapis.com/auth/youtubepartner"],t.s)
-q.a=new A.RX(p,"",new A.wq(null,null,t.io))
+q.a=new A.RX(p,"72580823804-ted1mku6u5jqbi8gq8n4mrcl1eii34gg.apps.googleusercontent.com",new A.wq(null,null,t.io))
 return A.K(null,r)}})
 return A.L($async$io,r)},
 l0(){var s=0,r=A.M(t.y),q,p=2,o,n=[],m=this,l,k,j,i,h
@@ -59046,7 +59046,7 @@ B.y0=new A.nt(0,"noOpinion")
 B.y1=new A.nt(1,"enabled")
 B.e0=new A.nt(2,"disabled")
 B.L6=new A.Bj(0,"none")
-B.y2=new A.nz("","","","socialreporter","socialreporter.firebaseapp.com",null,"socialreporter.appspot.com","",null,null,null,null,null,null)
+B.y2=new A.nz("AIzaSyDVC-misJOJFtVFbr3yKY-lt3ghRTwjD-k","1:72580823804:web:5af09f82c2df4c9e97b579","72580823804","socialreporter","socialreporter.firebaseapp.com",null,"socialreporter.appspot.com","G-0LJ9SJSK0F",null,null,null,null,null,null)
 B.kv=new A.Bo(0,"tight")
 B.y3=new A.rZ(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.e1=new A.i8(0,"touch")
