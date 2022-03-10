@@ -3,13 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "64ece3202aa3aa1534bf0648f1fb389d",
+  "version.json": "069be8520ec01f16911d296a88f7de46",
 "1.tdlib.js": "ec6302094a02ee4ef986a41622aa7c7a",
 "favicon.ico": "1e1432cedce8f5ec3c038c3ed4f8fa99",
-"index.html": "89c7c90396eac431604ce78a4f852f55",
-"/": "89c7c90396eac431604ce78a4f852f55",
-"about.html": "e9a4d62dfdfa1d9058dcdc4feb0f5dba",
-"main.dart.js": "a6caf91a43bdb26e5bac9375bba6b569",
+"index.html": "cb8e9c62c4d6a5e1fb3c588eb4c3fb2d",
+"/": "cb8e9c62c4d6a5e1fb3c588eb4c3fb2d",
+"about.html": "6ac3b78121a8c721baa509db8f65b3cd",
+"main.dart.js": "a2b4c3620a8f25c38bbd6f0fc68a05e3",
 "64fd0252ac086d3489b929533cc274bc.wasm": "64fd0252ac086d3489b929533cc274bc",
 "main.css": "ebf53e605107e6efe14004352c143350",
 "2.tdlib.js": "6d7ae4b2e80837a8e38097edc839e416",
@@ -27,7 +27,7 @@ const RESOURCES = {
 "assets/assets/logo.png": "4e556ec93df4a04bc047afc4caccb59e",
 "tdlib.js": "8265e7c8a09c62b048c5637a888ca242",
 "b5dffc7d6e2ecedbd2e349d1e4231900.mem": "b5dffc7d6e2ecedbd2e349d1e4231900",
-"privacy.html": "70d1d922f4cc9887dabaa4d01d146788"
+"privacy.html": "273d63455be13c5a0dd97035bb4dac0b"
 };
 
 // The application shell files that are downloaded before a service worker can
